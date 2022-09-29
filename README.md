@@ -1,0 +1,2 @@
+# restart-l2tp-script
+ipsecとxl2tpdをまとめてsystemctl restartするためのシェルスクリプト
